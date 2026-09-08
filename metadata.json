@@ -1,0 +1,8 @@
+{
+  "name": "Remix AlKaitOS Autonomous Software Engineer",
+  "description": "محرك الوكيل البرمجي المستقل لنظام AlKaitOS مع حلقة ReAct المتطورة وأدوات MCP وفهرسة RAG",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
